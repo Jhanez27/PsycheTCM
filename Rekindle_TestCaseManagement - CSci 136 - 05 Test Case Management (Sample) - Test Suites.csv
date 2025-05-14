@@ -1,0 +1,42 @@
+Test Cases,TEST CASE ID,Sample Summary
+Map Testing,,
+Map Toggle Testing,MAP-0001,Verify that map UI is toggleable
+Map Teleportation Testing,MAP-0002,Varify that player teleportation through maps is successful.
+Map Transition Testing ,MAP-0003,Verify that transition from one map to another is successful.
+Map Out-Of-Bounds Testing,MAP-0004,Verify that player cannot go out of bounds within the available maps.
+Map Scene Testing,MAP-0005,Verify that the map loads the correct scene.
+Map Character Spawn Testing,MAP-0006,Verify that the correct Character is teleported to the desired scene.
+Movement Testing,,
+Real-world Movement Testing,MOV-0001,Verify that movement works in the apocalyptic world setting.
+Real-world Dashing Testing,MOV-0002,Verify that dashing works in the apocalyptic world setting.
+Story-world Movement Testing,MOV-0003,Verify that movement works in the story world setting.
+Story-world Dashing Testing,MOV-0004,Verify that dashing works in the story world setting.
+Movement Stop - Quest Log Testing,MOV-0005,Verify that player movement is disabled when quest log is active.
+Movement Stop - Inventory Testing,MOV-0006,Verify that player movement is disabled when inventory UI is active.
+Movement Stop - Dialogue Testing,MOV-0007,Verify that player movement is disabled when dialogue UI is active.
+Movement Stop - Cutscene Testing,MOV-0008,Verify that player movement is disabled when story cutscene is active.
+Movement Stop - Map Testing,MOV-0009,Verify that player movement is disabled when map UI is active.
+Movement Resume - Quest Log Testing,MOV-0010,Verify that player movement is enabled when quest log is inactive.
+Movement Resume - Inventory Testing,MOV-0011,Verify that player movement is enabled when inventory UI is inactive.
+Movement Resume - Dialogue Testing,MOV-0012,Verify that player movement is enabled when dialogue UI is inactive.
+Movement Resume - Cutscene Testing,MOV-0013,Verify that player movement is enabled when story cutscene is inactive.
+Movement Resume - Map Testing,MOV-0014,Verify that player movement is enabled when map UI is inactive.
+Dialogue Testing,,
+Dialogue Start Testing,DIA-0001,Verify that player can start dialogue if it is within the trigger box.
+Dialogue Continuation Testing,DIA-0002,Verify that the dialogue can be continued per line.
+Dialogue Skipping Testing,DIA-0003,Verify that the dialogue can be skipped whilst dialogue lines are typing.
+DIalogue Choices Testing,DIA-0004,"Verify that choices are displayed if choices are given, and dialogue cannot progress  if choices are available."
+Non-linear Dialogue Testing,DIA-0005,Verify that dialogue will change depending on player choices.
+Dialogue Cutscene Testing,DIA-0006,Veridy that story cutscenes are working as intended.
+Save System testing,,
+Save Progress Testing ,SAVE-0001,Verify that game progress is saved successfully when cthe save button is clicked.
+Load Progress Testing,SAVE-0002,Verify that the current progress is loaded successfully.
+Default Save Progress Testing,SAVE-0003,Verify that game progress is saved successfully before player exits the game.
+Error Messages,,
+Error Message - X,UI-0033,Verify that "X" error message is displayed successfully.
+Error Message - Y,UI-0034,Verify that "Y" error message is displayed successfully.
+Error Message - Z,UI-0035,Verify that "Z" error message is displayed successfully.
+Authentication Testing,,
+Authentication testing - Sign Up with Username/Password,SEC-0001,Verify user can sign up with username and password.
+Authentication testing - Log in with Username/Password,SEC-0002,Verify user can log in with username and password.
+Authentication testing - Verify Email,SEC-0007,Verify user can verify account through email.
