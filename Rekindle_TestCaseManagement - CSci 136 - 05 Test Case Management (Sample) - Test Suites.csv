@@ -39,4 +39,3 @@ Error Message - Z,UI-0035,Verify that "Z" error message is displayed successfull
 Authentication Testing,,
 Authentication testing - Sign Up with Username/Password,SEC-0001,Verify user can sign up with username and password.
 Authentication testing - Log in with Username/Password,SEC-0002,Verify user can log in with username and password.
-Authentication testing - Verify Email,SEC-0007,Verify user can verify account through email.
