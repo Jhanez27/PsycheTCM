@@ -45,4 +45,3 @@
  * [Authentication Testing](<./Authentication Testing>)  
    * [SEC-0001: Authentication testing - Sign Up with Username/Password](<./Authentication Testing/SEC-0001_authentication_testing_sign_up_with_username_password.md>)  
    * [SEC-0002: Authentication testing - Log in with Username/Password](<./Authentication Testing/SEC-0002_authentication_testing_log_in_with_username_password.md>)  
-   * [SEC-0007: Authentication testing - Verify Email](<./Authentication Testing/SEC-0007_authentication_testing_verify_email.md>)  
