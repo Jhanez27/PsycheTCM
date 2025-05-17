@@ -5,7 +5,7 @@
 **Preconditions:** 
 
 - The player is in a map, playing as a character of a story.
-- The Inventory UI is currently active.
+- The Inventory UI is active.
 
 Scenario 1 
 

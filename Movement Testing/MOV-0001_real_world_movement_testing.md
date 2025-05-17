@@ -4,7 +4,7 @@
 
 **Preconditions:** 
 
-- Player is currently in the post-apoalyptic world.
+- Player is in the post-apoalyptic world.
 
 Scenario 1 
 

@@ -5,7 +5,7 @@
 **Preconditions:** 
 
 - The player is in a map, playing as a character of a story.
-- The Quest Log UI is currently active.
+- The Quest Log UI is active.
 
 Scenario 1 
 
