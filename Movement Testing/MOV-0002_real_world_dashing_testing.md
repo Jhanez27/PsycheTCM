@@ -1,8 +1,10 @@
 ## **MOV-0002:** Real-world Dashing Testing  
 
-> **Summary:** Verify that dashing works in the apocalyptic world setting.  <br>
+> **Summary:** Verify that dashing works in the post-apocalyptic world setting.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:**
+
+- Player is currently in the post-apocalyptic world.
 
 Scenario 1 
 
