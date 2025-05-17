@@ -2,18 +2,23 @@
 
 > **Summary:** Verify that player movement is enabled when inventory UI is inactive.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- The player is in a map, playing as a character of a story.
+- The Inventory UI is currently active.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Press the C key in the keyboard.   | Verify that the Inventory UI Element disappears from the screen.  | 
+ |  2 |   Press the W key in the keyboard   | Verify that the player moves upwards.   | 
+ |  3 |   Press the A key in the keyboard   | Verify that the player moves leftwards.   |  
+ |  4 |   Press the S key in the keyboard   | Verify that the player moves downwards.  |
+ |  5 |   Press the D key in the keyboard   | Verify that the player moves rightwards.  |
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - The Inventory UI has been deactivated in the screen.
+ - Player movement in all directions has been enabled. 
+ - No collision, physics or animation errors, occured during movement.
