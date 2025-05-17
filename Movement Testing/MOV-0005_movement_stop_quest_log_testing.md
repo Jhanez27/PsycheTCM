@@ -11,7 +11,7 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |   Press the Q key in the keyboard.   | Verify that a Quest Log UI Element shows on the screen.  | 
+ |  1 |   Press the Q key in the keyboard.   | Verify that the Quest Log UI shows on the screen.  | 
  |  2 |   Press the W key in the keyboard   | Verify that the player does not move.   | 
  |  3 |   Press the A key in the keyboard   | Verify that the player does not move.   |  
  |  4 |   Press the S key in the keyboard   | Verify that the player does not move.  |
