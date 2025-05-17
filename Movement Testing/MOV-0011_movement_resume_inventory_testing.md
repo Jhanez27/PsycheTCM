@@ -11,7 +11,7 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |   Press the C key in the keyboard.   | Verify that the Inventory UI Element disappears from the screen.  | 
+ |  1 |   Press the C key in the keyboard.   | Verify that the Inventory UI disappears from the screen.  | 
  |  2 |   Press the W key in the keyboard   | Verify that the player moves upwards.   | 
  |  3 |   Press the A key in the keyboard   | Verify that the player moves leftwards.   |  
  |  4 |   Press the S key in the keyboard   | Verify that the player moves downwards.  |
