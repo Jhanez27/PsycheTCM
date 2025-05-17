@@ -52,7 +52,6 @@
   - [UI-0001: Error Message - X](<./Error Messages/UI-0001_error_message_x.md>)
   - [UI-0002: Error Message - Y](<./Error Messages/UI-0002_error_message_y.md>)
   - [UI-0003: Error Message - Z](<./Error Messages/UI-0003_error_message_z.md>)
-- [Security Testing](<./Security Testing>)
 - [Authentication Testing](<./Authentication Testing>)
   - [SEC-0001: Authentication testing - Sign Up with Username/Password](<./Authentication Testing/SEC-0001_authentication_testing_sign_up_with_username_password.md>)
   - [SEC-0002: Authentication testing - Log in with Username/Password](<./Authentication Testing/SEC-0002_authentication_testing_log_in_with_username_password.md>)
