@@ -2,18 +2,17 @@
 
 > **Summary:** Verify that map UI is toggleable  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Player is already shown the map tutorial which the unlocks map feature.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Press the M key in the keyboard   | Verify that the map opens.   | 
+ |  2 |   Press the Esc button in the upper right of the map   | Verify that the map closes.   |
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Player can freely toggle on and off map in the post-apoalyptic world.

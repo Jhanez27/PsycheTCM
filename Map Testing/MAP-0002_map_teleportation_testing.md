@@ -2,18 +2,16 @@
 
 > **Summary:** Varify that player teleportation through maps is successful.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Map is toggled on by the player in the post-apoalyptic world.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Press the arrow knob in the location to teleport   | Verify that the player can teleport to a new location.   |
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - No physics, collisions, or animation errors occured after teleportation.
