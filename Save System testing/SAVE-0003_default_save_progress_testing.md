@@ -2,18 +2,17 @@
 
 > **Summary:** Verify that game progress is saved successfully before player exits the game.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Player is in the game world. 
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Click the Exit button in the game.   | Verify that the game exits successfully.   | 
+ |  2 |   Reopen Rekindle and Load Game    | Verify that game progress has been successfully saved.   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Game data should be persistent after application exits.

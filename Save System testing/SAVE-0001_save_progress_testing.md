@@ -6,7 +6,6 @@
 
 - The player is in a map, playing as a character of a story.  
 - 
-- 
 
 Scenario 1 
 
