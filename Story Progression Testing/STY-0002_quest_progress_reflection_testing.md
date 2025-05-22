@@ -2,18 +2,18 @@
 
 > **Summary:** Verify that the quest log content reflects game progression.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Player is in a map, playing as a character of the story.
+- There is no active UI element for Dialogue, Inventory, Quest, or Cutscene.
+- A Quest Step, the information below the Objective, has recently been finished.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Press the Q key in the keyboard   | Verify that the completed Quest Step has been crushed out, displaying the next Quest Step or the Quest Status.   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - The Quest System is reflective to the quest progression by the player.

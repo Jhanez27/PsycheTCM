@@ -1,6 +1,6 @@
 ## **SAVE-0001:** Save Progress Testing  
 
-> **Summary:** Verify that game progress is saved successfully when cthe save button is clicked.  <br>
+> **Summary:** Verify that game progress is saved successfully when the save button is clicked.  <br>
 
 **Preconditions:** _None_  
 
