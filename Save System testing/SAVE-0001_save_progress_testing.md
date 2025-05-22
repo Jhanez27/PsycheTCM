@@ -2,7 +2,11 @@
 
 > **Summary:** Verify that game progress is saved successfully when the save button is clicked.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- The player is in a map, playing as a character of a story.  
+- 
+- 
 
 Scenario 1 
 

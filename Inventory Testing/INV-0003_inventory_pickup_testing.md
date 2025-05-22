@@ -2,18 +2,18 @@
 
 > **Summary:** Verify that items can be picked up.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Player is in the map, playing as a character of a story.
+- The four leaf clover item is active in the scene.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Move towards the four leaf clover item.   | Verify that the item disappears in the map when picked up.   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Items found in the map are pickable.
+ - 

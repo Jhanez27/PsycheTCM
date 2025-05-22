@@ -2,18 +2,18 @@
 
 > **Summary:** Verify that the inventory UI is toggleable.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** 
+
+- Player is in a map, playing as a character of the story.
+- There is no active UI element for Dialogue, Inventory, Quest, or Cutscene.
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Press the C key in the keyboard.   | Verify that the Inventory UI element pops up on the screen.   | 
+ |  2 |   Press the C key in the keyboard.   | Verify that the Inventory UI element disappears from the screen.   | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
+ - Inventory UI is responsive and toggleable by the C key. 
